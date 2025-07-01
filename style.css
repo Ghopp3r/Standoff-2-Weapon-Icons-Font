@@ -1,0 +1,177 @@
+@font-face {
+  font-family: 'standoff2-weapon-icons';
+  src:  url('fonts/standoff2-weapon-icons.eot?eilr9l');
+  src:  url('fonts/standoff2-weapon-icons.eot?eilr9l#iefix') format('embedded-opentype'),
+    url('fonts/standoff2-weapon-icons.ttf?eilr9l') format('truetype'),
+    url('fonts/standoff2-weapon-icons.woff?eilr9l') format('woff'),
+    url('fonts/standoff2-weapon-icons.svg?eilr9l#standoff2-weapon-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'standoff2-weapon-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-M110_HUD80:before {
+  content: "\58";
+}
+.icon-MP5_HUD80:before {
+  content: "\4c";
+}
+.icon-Molotov_HUD80:before {
+  content: "\66";
+}
+.icon-VAL_HUD80:before {
+  content: "\4e";
+}
+.icon-USP_HUD80:before {
+  content: "\42";
+}
+.icon-UMP45_HUD80:before {
+  content: "\48";
+}
+.icon-Tec9_HUD80:before {
+  content: "\45";
+}
+.icon-Tanto_HUD80:before {
+  content: "\38";
+}
+.icon-Sting_HUD80:before {
+  content: "\28";
+}
+.icon-Stiletto_HUD80:before {
+  content: "\5d";
+}
+.icon-SPAS_HUD80:before {
+  content: "\62";
+}
+.icon-Smoke_HUD80:before {
+  content: "\64";
+}
+.icon-Scorpion_HUD80:before {
+  content: "\37";
+}
+.icon-P350_HUD80:before {
+  content: "\43";
+}
+.icon-P90_HUD80:before {
+  content: "\4b";
+}
+.icon-MP7_HUD80:before {
+  content: "\4a";
+}
+.icon-Mantis_HUD80:before {
+  content: "\7b";
+}
+.icon-MAC10_HUD80:before {
+  content: "\4d";
+}
+.icon-m60_hud80:before {
+  content: "\61";
+}
+.icon-M40_HUD80:before {
+  content: "\57";
+}
+.icon-M16_HUD80:before {
+  content: "\53";
+}
+.icon-m9_hud80:before {
+  content: "\31";
+}
+.icon-M4A1S_HUD80:before {
+  content: "\4f";
+}
+.icon-M4_HUD80:before {
+  content: "\52";
+}
+.icon-Kunai_HUD80:before {
+  content: "\36";
+}
+.icon-Kukri_HUD80:before {
+  content: "\5b";
+}
+.icon-Bomb_HUD80:before {
+  content: "\68";
+}
+.icon-Knife_HUD80:before {
+  content: "\30";
+}
+.icon-Karambit_HUD80:before {
+  content: "\32";
+}
+.icon-jKommando_HUD80:before {
+  content: "\33";
+}
+.icon-Incendiary_HUD80:before {
+  content: "\67";
+}
+.icon-he_hud80:before {
+  content: "\63";
+}
+.icon-G22_HUD80:before {
+  content: "\41";
+}
+.icon-FnFal_HUD80:before {
+  content: "\55";
+}
+.icon-flip_hud80:before {
+  content: "\35";
+}
+.icon-Flash_HUD80:before {
+  content: "\65";
+}
+.icon-FiveSeven_HUD80:before {
+  content: "\46";
+}
+.icon-Fang_HUD80:before {
+  content: "\7d";
+}
+.icon-Famas_HUD80:before {
+  content: "\54";
+}
+.icon-FabM_HUD80:before {
+  content: "\5a";
+}
+.icon-defuse_hud80:before {
+  content: "\69";
+}
+.icon-Deagle_HUD80:before {
+  content: "\44";
+}
+.icon-Daggers_HUD80:before {
+  content: "\39";
+}
+.icon-Butterfly_HUD80:before {
+  content: "\34";
+}
+.icon-Berettas_HUD80:before {
+  content: "\47";
+}
+.icon-Benelli_M4_HUD80:before {
+  content: "\59";
+}
+.icon-AKR12_HUD80:before {
+  content: "\51";
+}
+.icon-AKR_HUD80:before {
+  content: "\50";
+}
+.icon-AkimboUzi_HUD80:before {
+  content: "\49";
+}
+.icon-AWM_HUD80:before {
+  content: "\56";
+}
